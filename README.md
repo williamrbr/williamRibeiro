@@ -5,13 +5,13 @@
 
 - 📫 contatame no email:william-TI-@hotmail.com
 
-<div>
-<p>
+
+<p aling="center">
   <a href="https://github.com/williamrbr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=william&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william&layout=compact&langs_count=7&theme=dark"/>
 </p>
-</div>
+
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
