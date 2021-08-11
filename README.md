@@ -6,10 +6,20 @@
 - 📫 contatame no email:william-TI-@hotmail.com
 
 
-<p aling="center">
-  <a href="https://github.com/williamrbr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=william&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william&layout=compact&langs_count=7&theme=dark"/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=teteusaraujo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
 </p>
 
 <p align="center">
