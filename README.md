@@ -1,5 +1,6 @@
 <h1>William Pimenta Ribeiro</h1>
--estudo Analise e desenvolvimento de sistemas, atualmente cursando 2° semestre.
+
+-Estudo Analise e desenvolvimento de sistemas, atualmente cursando 2° semestre.
 
 - 🌱 estou estudando para entrar no front-end.
 
