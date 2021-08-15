@@ -2,9 +2,9 @@
 
 -Estudo Analise e desenvolvimento de sistemas, atualmente cursando 2° semestre.
 
-- 🌱 estou estudando para entrar no front-end.
+-Estou estudando para entrar no front-end.
 
-- 📫 contatame no email:william-TI-@hotmail.com
+-Contatame no email:william-TI-@hotmail.com
 
 
 <p align="center">
