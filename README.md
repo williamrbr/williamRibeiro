@@ -4,7 +4,7 @@
 
 -Estou estudando para entrar no front-end.
 
--Contatame no email:william-TI-@hotmail.com
+-Contatame no email: william-TI-@hotmail.com
 
 
 <p align="center">
